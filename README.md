@@ -1,4 +1,4 @@
-# travelfriend.chat
+# travelfriend.web
 
 ## Project setup
 ```
